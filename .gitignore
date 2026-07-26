@@ -3,6 +3,7 @@ historico/
 intermedias/
 datos/
 programas/
+resultados/
 todo.md
 __pycache__/
 *.pyc
