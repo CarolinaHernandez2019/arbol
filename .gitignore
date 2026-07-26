@@ -1,0 +1,11 @@
+Notes/
+historico/
+intermedias/
+datos/
+programas/
+todo.md
+__pycache__/
+*.pyc
+~$*
+Thumbs.db
+.DS_Store
